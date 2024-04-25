@@ -13,7 +13,7 @@ project name:**Detection of unauthorized human entity in survivallence video**
         
         3. pip install pygame
         
-**step3:**For run the project execute the below command
+**step3:** For run the project execute the below command
 
         python main.py
 
