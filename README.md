@@ -23,4 +23,4 @@ Keywords—Video surveillance, Histogram, Key frame extraction.
 
         python main.py
 
-**note:** After download the source code create a new floder and remane it as a "TrainingImage" and then run the project
+**note:** After download the source code create a new floder where the main file is present and remane it as a "TrainingImage" and then run the project
